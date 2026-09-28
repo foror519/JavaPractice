@@ -1,2 +1,2 @@
 # JavaPractice
-Java solutions to neetcode problems and a Spring Boot pet project.
+Java solutions to algorithm problems: neetcode, Yandex training, CodeRun.
