@@ -15,7 +15,7 @@ public class Main{
     }
     public static void main(String[] args) throws IOException {
         long n = Integer.parseInt(next());
-        int x = 1;
+        long x = 1;
         int count = 0;
         while (x < n){
             x = x * 2;
